@@ -1,0 +1,25 @@
+body{
+    margin:20px;   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hi{
+    width: 420px;
+    border: 1px solid white;;
+    background: #ddebf8;
+    padding:20px;
+    display:flex;
+    justify-content: space-around;;
+    margin:0 auto;
+    border-bottom:5px solid violet;
+
+}
+
+img{
+    width: 200px;
+    margin-right:20px;
+}
+
+.paragraph{
+    text-align: center;
+}
